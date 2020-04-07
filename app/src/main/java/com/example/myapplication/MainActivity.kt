@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
             lotChoice = Group.selectedItem.toString()
 
             val formattedCharges = Currency.format(totalCharges)
-            Result.text = "Cost for parking in $lotChoice for $numberOfHrs is $formattedCharges"
+            Result.text = "Cost for parking in $lotChoice for $numberOfHrs hrs is $formattedCharges"
         }
 
     }
