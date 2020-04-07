@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="TxtTitle">Parking Charges</string>
+    <string name="hintHours">Number of Hours</string>
+    <string name="buttonCalc">Calculate Charges</string>
+    <string name="Prompt">Select Lot</string>
+    <string-array name="txtGroup">
+        <item>Lot A</item>
+        <item>Lot B</item>
+        <item>Lot C</item>
+        <item>Lot D</item>
+    </string-array>
+</resources>
